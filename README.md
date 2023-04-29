@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning **Java-script (js)**
 
-- 👨‍💻 All of my projects are available at [upjeet.site](upjeet.site)
+- 👨‍💻 All of my projects are available at [upjeet.site](https://upjeet.site/)
 
-- 📝 I regularly write articles on [upjeet.site](upjeet.site)
+- 📝 I regularly write articles on [upjeet.site](https://upjeet.site/)
 
 - 💬 Ask me about **FrontEnd**
 
