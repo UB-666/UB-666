@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **upjeet1609@gmail.com**
 
-- 📄 Know about my experiences [https://upjeet.site/Upjeet-Baswan-Resume.pdf](https://upjeet.site/Upjeet-Baswan-Resume.pdf)
+- 📄 Know about my experiences [https://bit.ly/3ABsxDZ](https://bit.ly/3ABsxDZ)
 
 - ⚡ Fun fact **I like To Be Alone**
 
