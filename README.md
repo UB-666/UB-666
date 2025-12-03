@@ -23,8 +23,5 @@
 - ⚡ Fun fact **I love Coffee 🍵**
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ub-666&show_icons=true&locale=en&layout=compact" alt="ub-666" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ub-666&show_icons=true&locale=en" alt="ub-666" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ub-666&" alt="ub-666" /></p>
