@@ -12,21 +12,15 @@
 
 - 👨‍💻 All of my projects are available at [upjeet.site](https://upjeet.site/)
 
-- 📝 I regularly write articles on [upjeet.site](https://upjeet.site/)
+- 📝 My Social Handle [IG](https://www.instagram.com/u_basxxn/)
 
-- 💬 Ask me about **FrontEnd**
+- 💬 Ask me about **FrontEnd/Backend/Database**
 
 - 📫 How to reach me **upjeet1609@gmail.com**
 
 - 📄 Know about my experiences [Here's my CV](https://bit.ly/3ABsxDZ)
 
-- ⚡ Fun fact **I like To Be Alone**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://stackoverflow.com/users/19241592/ub-666" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ub-666" height="30" width="40" /></a>
-<a href="https://instagram.com/0fficial_ub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="0fficial_ub" height="30" width="40" /></a>
-</p>
+- ⚡ Fun fact **I love Coffee 🍵**
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ub-666&show_icons=true&locale=en&layout=compact" alt="ub-666" /></p>
