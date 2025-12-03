@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **TechUB Blogs Website**
 
-- 🌱 I’m currently learning **Java-script (js)**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [upjeet.site](https://upjeet.site/)
 
