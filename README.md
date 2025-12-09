@@ -6,7 +6,7 @@
 
 <a href="upjeet.site"> <p align="left"> <img src="https://komarev.com/ghpvc/?username=ub-666&label=Profile%20views&color=0e75b6&style=flat" alt="ub-666" /> </p> </a>
 
-- 🔭 I’m currently working on **TechUB Blogs Website**
+- 🔭 I’m currently working on **PraxChat**
 
 - 🌱 I’m currently learning **Python**
 
